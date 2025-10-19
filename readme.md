@@ -7,9 +7,7 @@ Projeto com o objetivo de recriar a lógica por trás do carrinho de compras da 
 
 ## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
-
-- [habilidades ou conhecimentos prévios necessários]
+- habilidades ou conhecimentos prévios necessários
 
   - Javascript | Intermediário
   - Node | Básico

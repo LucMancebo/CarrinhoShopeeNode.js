@@ -1,5 +1,4 @@
 
-
 //criar item com subtotal certo
 export async function createItem(name, price, quantity) {
     return {
